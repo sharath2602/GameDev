@@ -1,2 +1,4 @@
 # GameDev
-This is my first repo and I have no clue what i'm doing!
+This is my first repo 
+<br>
+we are developing a good game
